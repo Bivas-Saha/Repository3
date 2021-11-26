@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+//for 2nd
 
 int convertDecimalToOctal(int decimalNumber);
 int main()
